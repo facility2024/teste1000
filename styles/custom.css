@@ -1,0 +1,95 @@
+
+/* Estilos personalizados para Beatriz🖤 Latina Cutie */
+:root {
+  --primary-color: #06c492;
+  --secondary-color: #028524;
+  --text-color: #ffffff;
+}
+
+.custom-gradient {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+}
+
+.model-name {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Animação shimmer para efeito de brilho */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Responsividade aprimorada */
+@media (max-width: 640px) {
+  .container {
+    padding: 0.5rem;
+  }
+  
+  /* Modal responsivo para celular */
+  #subscriptionModal .bg-white {
+    margin: 0.5rem;
+    max-height: 95vh;
+    overflow-y: auto;
+  }
+  
+  /* Ajustes para textos em telas pequenas */
+  .text-responsive {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+  /* Tablet/Notebook ajustes */
+  #subscriptionModal .bg-white {
+    max-width: 24rem;
+    margin: 1rem;
+  }
+}
+
+@media (min-width: 1025px) {
+  /* Desktop ajustes */
+  #subscriptionModal .bg-white {
+    max-width: 28rem;
+  }
+}
+
+/* Ajustes para altura da tela */
+@media (max-height: 640px) {
+  #subscriptionModal {
+    align-items: flex-start;
+    padding: 0.5rem;
+  }
+  
+  #subscriptionModal .bg-white {
+    margin-top: 0;
+    margin-bottom: 0;
+    max-height: 95vh;
+    my-2: 0.5rem;
+  }
+}
+
+/* Ajustes para celular em landscape */
+@media (max-height: 480px) and (orientation: landscape) {
+  #subscriptionModal {
+    padding: 0.25rem;
+  }
+  
+  #subscriptionModal .bg-white {
+    max-height: 98vh;
+    padding: 0.75rem;
+  }
+  
+  #subscriptionModal h2 {
+    font-size: 1rem;
+  }
+  
+  #subscriptionModal .space-y-2 > * + * {
+    margin-top: 0.25rem;
+  }
+}
