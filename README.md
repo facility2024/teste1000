@@ -1,12 +1,12 @@
-# Página OnlyFans - Beatriz🖤 Latina Cutie
+# Página OnlyFans - Nia Cruz 🖤 Latina Cutie
 
 Esta é uma página OnlyFans personalizada gerada automaticamente.
 
 ## Configurações Atuais:
-- Modelo: Beatriz🖤 Latina Cutie (@alexispixie)
+- Modelo: Nia Cruz 🖤 Latina Cutie (@niacruzxo)
 - Preço do Pack: R$ 1,00
-- Total de Imagens: 12
-- Total de Vídeos: 40
+- Total de Imagens: 740
+- Total de Vídeos: 809
 - Tipo de Projeto: hugo
 
 ## Como usar:
@@ -14,4 +14,4 @@ Esta é uma página OnlyFans personalizada gerada automaticamente.
 2. A página está totalmente funcional
 3. Edite conforme necessário
 
-Gerado em: 17/09/2025, 13:49:05
+Gerado em: 17/09/2025, 15:42:22

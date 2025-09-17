@@ -1,6 +1,6 @@
 
 // Scripts personalizados para funcionalidades avançadas
-console.log('Página Beatriz🖤 Latina Cutie carregada com sucesso!');
+console.log('Página Nia Cruz 🖤 Latina Cutie carregada com sucesso!');
 
 // Função para analytics personalizado
 function trackCustomEvent(eventName, data) {
@@ -11,7 +11,7 @@ function trackCustomEvent(eventName, data) {
 // Inicializar eventos personalizados
 document.addEventListener('DOMContentLoaded', function() {
   trackCustomEvent('page_loaded', {
-    model: 'Beatriz🖤 Latina Cutie',
+    model: 'Nia Cruz 🖤 Latina Cutie',
     timestamp: new Date().toISOString()
   });
 });
